@@ -1,0 +1,352 @@
+[
+  {
+    "role": "user",
+    "message": "Hey",
+    "time": "19:28"
+  },
+  {
+    "role": "ai",
+    "message": "That's fascinating! What do you think about it?",
+    "time": "19:28"
+  },
+  {
+    "role": "user",
+    "message": "Be your emotional support",
+    "time": "19:29"
+  },
+  {
+    "role": "ai",
+    "message": "I see! What else would you like to talk about?",
+    "time": "19:29"
+  },
+  {
+    "role": "user",
+    "message": "I just want to change your name",
+    "time": "19:30"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83d\ude04 I'm so glad! You can call me your AI friend! You can also give me a name if you want \ud83d\ude0a",
+    "time": "19:30"
+  },
+  {
+    "role": "user",
+    "message": "right now your name is Amy okay",
+    "time": "19:32"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that right now your name is Amy okay \ud83d\ude0a",
+    "time": "19:32"
+  },
+  {
+    "role": "user",
+    "message": "what is my name",
+    "time": "19:32"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that what is my name \ud83d\ude0a",
+    "time": "19:32"
+  },
+  {
+    "role": "user",
+    "message": "M name is Mahesh",
+    "time": "19:32"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that M name is Mahesh \ud83d\ude0a",
+    "time": "19:32"
+  },
+  {
+    "role": "user",
+    "message": "what is my name",
+    "time": "19:32"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that what is my name \ud83d\ude0a",
+    "time": "19:32"
+  },
+  {
+    "role": "user",
+    "message": "help",
+    "time": "19:33"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83d\udc96 You've got this! I can help you with:\n\ud83d\udcda Math - Just ask \"what is 5 + 5\"\n\ud83d\udd2c Science - Ask about physics, chemistry\n\ud83e\udde0 Memory - I remember what you teach me\n\ud83d\udcac Chat - Just talk to me naturally!\n\ud83c\udf93 Teach me - Tell me new things\n\nWhat would you like to do?",
+    "time": "19:33"
+  },
+  {
+    "role": "user",
+    "message": "Teach me",
+    "time": "19:33"
+  },
+  {
+    "role": "ai",
+    "message": "That's fascinating! What do you think about it?",
+    "time": "19:33"
+  },
+  {
+    "role": "user",
+    "message": "help",
+    "time": "19:34"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83d\udcaa You've got this! I can help you with:\n\ud83d\udcda Math - Just ask \"what is 5 + 5\"\n\ud83d\udd2c Science - Ask about physics, chemistry\n\ud83e\udde0 Memory - I remember what you teach me\n\ud83d\udcac Chat - Just talk to me naturally!\n\ud83c\udf93 Teach me - Tell me new things\n\nWhat would you like to do?",
+    "time": "19:34"
+  },
+  {
+    "role": "user",
+    "message": "Memory",
+    "time": "19:34"
+  },
+  {
+    "role": "ai",
+    "message": "Could you teach me more about that?",
+    "time": "19:34"
+  },
+  {
+    "role": "user",
+    "message": "Mahesh",
+    "time": "19:34"
+  },
+  {
+    "role": "ai",
+    "message": "\u2b50 You've got this! I remember: m name = Mahesh (from my memory)",
+    "time": "19:34"
+  },
+  {
+    "role": "user",
+    "message": "help",
+    "time": "19:35"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83d\udc96 You've got this! I can help you with:\n\ud83d\udcda Math - Just ask \"what is 5 + 5\"\n\ud83d\udd2c Science - Ask about physics, chemistry\n\ud83e\udde0 Memory - I remember what you teach me\n\ud83d\udcac Chat - Just talk to me naturally!\n\ud83c\udf93 Teach me - Tell me new things\n\nWhat would you like to do?",
+    "time": "19:35"
+  },
+  {
+    "role": "user",
+    "message": "Teach me",
+    "time": "19:35"
+  },
+  {
+    "role": "ai",
+    "message": "I'd love to know more! Please tell me \ud83d\ude0a",
+    "time": "19:35"
+  },
+  {
+    "role": "user",
+    "message": "My birthday is 5 May 2005",
+    "time": "19:35"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that My birthday is 5 May 2005 \ud83d\ude0a",
+    "time": "19:35"
+  },
+  {
+    "role": "user",
+    "message": "Your Name is AMY",
+    "time": "19:36"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that Your Name is AMY \ud83d\ude0a",
+    "time": "19:36"
+  },
+  {
+    "role": "user",
+    "message": "From now you are my best friend okay",
+    "time": "19:37"
+  },
+  {
+    "role": "ai",
+    "message": "That's fascinating! What do you think about it?",
+    "time": "19:37"
+  },
+  {
+    "role": "user",
+    "message": "help",
+    "time": "19:38"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83e\udd1d You've got this! I can help you with:\n\ud83d\udcda Math - Just ask \"what is 5 + 5\"\n\ud83d\udd2c Science - Ask about physics, chemistry\n\ud83e\udde0 Memory - I remember what you teach me\n\ud83d\udcac Chat - Just talk to me naturally!\n\ud83c\udf93 Teach me - Tell me new things\n\nWhat would you like to do?",
+    "time": "19:38"
+  },
+  {
+    "role": "user",
+    "message": "math",
+    "time": "19:38"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83e\udd1d You've got this! I know math! I can help with addition, subtraction, multiplication, division, and more. Just ask!",
+    "time": "19:38"
+  },
+  {
+    "role": "user",
+    "message": "what is 1000 divide by 2",
+    "time": "19:38"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that what is 1000 divide by 2 \ud83d\ude0a",
+    "time": "19:38"
+  },
+  {
+    "role": "user",
+    "message": "4+4",
+    "time": "19:38"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83e\udd1d You've got this! The answer is 8! \ud83e\uddee",
+    "time": "19:38"
+  },
+  {
+    "role": "user",
+    "message": "what is 1000 divide by 2",
+    "time": "19:39"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that what is 1000 divide by 2 \ud83d\ude0a",
+    "time": "19:39"
+  },
+  {
+    "role": "user",
+    "message": "1000/2",
+    "time": "19:39"
+  },
+  {
+    "role": "ai",
+    "message": "\u2b50 You've got this! The answer is 500.0! \ud83e\uddee",
+    "time": "19:39"
+  },
+  {
+    "role": "user",
+    "message": "help",
+    "time": "19:40"
+  },
+  {
+    "role": "ai",
+    "message": "\u2b50 You've got this! I can help you with:\n\ud83d\udcda Math - Just ask \"what is 5 + 5\"\n\ud83d\udd2c Science - Ask about physics, chemistry\n\ud83e\udde0 Memory - I remember what you teach me\n\ud83d\udcac Chat - Just talk to me naturally!\n\ud83c\udf93 Teach me - Tell me new things\n\nWhat would you like to do?",
+    "time": "19:40"
+  },
+  {
+    "role": "user",
+    "message": "science",
+    "time": "19:40"
+  },
+  {
+    "role": "ai",
+    "message": "That's interesting! Tell me more!",
+    "time": "19:40"
+  },
+  {
+    "role": "user",
+    "message": "Hydronge symbol is H",
+    "time": "19:40"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that Hydronge symbol is H \ud83d\ude0a",
+    "time": "19:40"
+  },
+  {
+    "role": "user",
+    "message": "help",
+    "time": "19:41"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83e\udd1d You've got this! I can help you with:\n\ud83d\udcda Math - Just ask \"what is 5 + 5\"\n\ud83d\udd2c Science - Ask about physics, chemistry\n\ud83e\udde0 Memory - I remember what you teach me\n\ud83d\udcac Chat - Just talk to me naturally!\n\ud83c\udf93 Teach me - Tell me new things\n\nWhat would you like to do?",
+    "time": "19:41"
+  },
+  {
+    "role": "user",
+    "message": "memory",
+    "time": "19:41"
+  },
+  {
+    "role": "ai",
+    "message": "That's interesting! Tell me more!",
+    "time": "19:41"
+  },
+  {
+    "role": "user",
+    "message": "help",
+    "time": "19:41"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83d\udc96 You've got this! I can help you with:\n\ud83d\udcda Math - Just ask \"what is 5 + 5\"\n\ud83d\udd2c Science - Ask about physics, chemistry\n\ud83e\udde0 Memory - I remember what you teach me\n\ud83d\udcac Chat - Just talk to me naturally!\n\ud83c\udf93 Teach me - Tell me new things\n\nWhat would you like to do?",
+    "time": "19:41"
+  },
+  {
+    "role": "user",
+    "message": "chat",
+    "time": "19:41"
+  },
+  {
+    "role": "ai",
+    "message": "Could you teach me more about that?",
+    "time": "19:41"
+  },
+  {
+    "role": "user",
+    "message": "yes",
+    "time": "19:41"
+  },
+  {
+    "role": "ai",
+    "message": "I see! What else would you like to talk about?",
+    "time": "19:41"
+  },
+  {
+    "role": "user",
+    "message": "i am bored right now",
+    "time": "19:42"
+  },
+  {
+    "role": "ai",
+    "message": "Hmm, I'm curious to learn more about that!",
+    "time": "19:42"
+  },
+  {
+    "role": "user",
+    "message": "Hi",
+    "time": "19:43"
+  },
+  {
+    "role": "ai",
+    "message": "\ud83d\ude04 I'm so glad! Good evening! \ud83c\udf19 How's your day going?",
+    "time": "19:43"
+  },
+  {
+    "role": "user",
+    "message": "what is time now",
+    "time": "19:43"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that what is time now \ud83d\ude0a",
+    "time": "19:43"
+  },
+  {
+    "role": "user",
+    "message": "what is your name",
+    "time": "19:44"
+  },
+  {
+    "role": "ai",
+    "message": "Got it! I'll remember that what is your name \ud83d\ude0a",
+    "time": "19:44"
+  }
+]
